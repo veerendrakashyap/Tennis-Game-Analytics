@@ -119,7 +119,7 @@ Key dashboard features:
 4. Run the Streamlit app
 
    ```
-   streamlit run app.py
+   streamlit run Tennis_Streamlit_dashboard.py
    ```
 
 ## Future Enhancements
